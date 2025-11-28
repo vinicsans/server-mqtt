@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../wifi-esp"
+		},
+		{
+			"name": "server",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
